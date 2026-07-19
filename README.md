@@ -1,16 +1,39 @@
-## Hi there 👋
+# Daniel Pires
 
-<!--
-**danielrboss/danielrboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with professional experience in software testing, test automation, low-code development and enterprise applications.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning Playwright and modern end-to-end test automation
+- Expanding TypeScript and web development skills
+- Building AI-enabled applications
+- Improving continuous integration and automated testing practices
+
+## Professional Experience
+
+- Manual, functional and regression testing
+- Robot Framework and SeleniumLibrary
+- Defect reproduction and ticket analysis
+- OutSystems Reactive Web and Mobile development
+- International project collaboration in English
+
+## Technologies
+
+- Robot Framework
+- SeleniumLibrary
+- OutSystems
+- SQL
+- REST APIs
+- Jira
+- Git
+
+## Currently Learning
+
+- Playwright
+- TypeScript
+- GitHub Actions
+- AI-assisted application development
+
+## Contact
+
+- LinkedIn: [Daniel Pires](https://www.linkedin.com/in/daniel-pires-85054b226)
